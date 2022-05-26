@@ -91,7 +91,7 @@ public class Board {
             System.out.println("Escape Key");
         }
         if(e.getKeyCode()>= KeyEvent.VK_A && e.getKeyCode() <= KeyEvent.VK_Z){
-            grid.keyPressedLetter(e.getKeyChar());
+            grid.keyPressedLetter(Character.toLowerCase(e.getKeyChar()));
             System.out.println("Character Key");
         }
 
