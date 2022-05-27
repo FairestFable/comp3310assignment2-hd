@@ -1,3 +1,5 @@
+package comp3310assignment2.hd;
+
 import java.util.Iterator;
 
 public class CellIterator implements Iterator<Cell> {

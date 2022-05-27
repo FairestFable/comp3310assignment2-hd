@@ -1,3 +1,5 @@
+package comp3310assignment2.hd;
+
 import java.awt.Graphics;
 import java.awt.event.*;
 import java.io.BufferedReader;

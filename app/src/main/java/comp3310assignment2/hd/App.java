@@ -1,3 +1,5 @@
+package comp3310assignment2.hd;
+
 import java.awt.Dimension;
 import java.awt.Graphics;
 import java.awt.event.*;
@@ -5,7 +7,6 @@ import java.time.Duration;
 import java.time.Instant;
 import javax.swing.JFrame;
 import javax.swing.JPanel;
-
 
 public class App extends JFrame {
 

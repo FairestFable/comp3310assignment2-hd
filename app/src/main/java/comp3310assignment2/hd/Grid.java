@@ -1,3 +1,5 @@
+package comp3310assignment2.hd;
+
 import java.awt.Graphics;
 import java.util.BitSet;
 import java.util.Iterator;
